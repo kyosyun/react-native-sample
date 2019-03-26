@@ -12,5 +12,7 @@ react-native init SamplePrj
 3. プロジェクトの起動
 ```
 cd SamplePrj
+npm start
 react-native run-ios
 ```
+`npm start`でサーバーを立ち上げ後に `react-native run-ios` を行う必要あり。
